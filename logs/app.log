@@ -1,0 +1,3 @@
+2026-09-20 09:00:00 [INFO] 192.168.1.10 - GET /api/orders 200 83ms
+2026-09-20 09:00:33 [ERROR] 192.168.1.19 - GET /api/users 429 FAILED user_id=1054
+2026-09-20 09:00:48 [WARN] 192.168.1.4 - GET /health 301 slow-response 812ms
